@@ -1,7 +1,9 @@
 # CS4003 – Software Engineering
 Smart and concise notes for CS4003 taught at the University of Arkansas — Fort Smith. Compiled and edited by Justin Dang.
 
-Raw notes are written in Markdown and can be used with Marp, a slide deck writer. You can install Marp with this [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode).
+Raw notes are written in Markdown and can be used with Marp, a slide deck writer. You can install Marp with this [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode). 
+
+To use Marp, learn about [Markdown](https://www.markdownguide.org/getting-started/) and how to use it.
 
 ![Open Preview](https://raw.githubusercontent.com/marp-team/marp-vscode/main/docs/new-file.gif)
 
