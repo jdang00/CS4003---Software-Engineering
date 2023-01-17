@@ -2,8 +2,6 @@
 marp: true
 ---
 
-
-
 # Software Processes
 ## CS4003 - Software Engineering
 ---
