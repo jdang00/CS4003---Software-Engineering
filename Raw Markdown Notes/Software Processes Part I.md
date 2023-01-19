@@ -2,8 +2,10 @@
 marp: true
 ---
 
-# Software Processes
+# Software Processes I
 ## CS4003 - Software Engineering
+Justin A. Dang
+
 ---
 Early computer software not built for consumer users. It transitioned out of military and enterprise into general communication and entertainment use cases. 
 
