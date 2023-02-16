@@ -29,6 +29,47 @@ Sequence diagrams are part of the UML and are used to model the interactions bet
 ___
 
 # Designing Sequence Diagrams
-- Design based on actor in a linear fashion
-- Show interaction of objects based on data
+- Design based on actor in a linear fashion (left to right)
+- Show interaction of objects based on data and application
+- Layer classifiers
 
+___
+
+# Requirements Engineering
+- User requirements
+- System requirements
+
+___
+# User Requirements
+- Statements in natural language plus diagrams of the services the system provides and its operational constraints. Written for customers.
+
+___
+
+# Systems Requirements
+- More technical literature that defines things like the tech stack. Written for developers.
+
+___
+
+# Functional vs non-functional requirements
+- Functional statements are statements of services the system should provide.
+- Non-functional statements are constraints on the services of functions offered such as timing constraints. It's not based on state but rather processing.
+
+___
+
+# Metrics for specifying nonfunctional requirements
+- Speed
+- Size
+- Ease of use
+- Reliability
+- Robustness
+- Portability
+
+___
+
+# Requirements processes
+- Elicitation
+- Analysis
+- Validation
+- Management
+
+In practice, the processes are an iterative activity in which these processes are interleaved.
